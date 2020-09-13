@@ -1,4 +1,10 @@
 # job-scraper
+
+I editted this existing scraper to work for US Indeed. Edit/run the run.py file to interface with the scraper.
+
+
+
+
 ### Scraping jobs from Indeed or CWjobs
 
 ## This repository
