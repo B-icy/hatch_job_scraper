@@ -6,11 +6,12 @@
 
 
 
-LOGIC
------
+TO DO
+---
 
-Grab description,
-if description contains word from skills,
-grab the detected skills,
-add to skill list in converted_data.json for each job,
- 
+skill_scanner.py
+- open job link
+- grab description
+- use nltk to parse out everything but verbs and nouns
+- run parsed data again skills data set
+- add detected skills to skills attribute in respective jobs data
