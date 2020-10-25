@@ -1,10 +1,8 @@
-✅ run.py <— — > job_scraper.py = results.json
+✅ run.py <— — > job_scraper.py = scraped_data.json
 
-✅ convert.py = data.json
+✅ convert.py = converted_data.json
 
-✅ pretty printer —> label by hand = {prof}_data.json
-
-
+First run run.py, then convert.py to output scraper jobs to correct Sorting Jobs format. TO DO: Run skill_scanner to atuo-fill skill list in converted_data.json
 
 TO DO
 ---
