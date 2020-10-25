@@ -13,5 +13,5 @@ skill_scanner.py
 - open job link
 - grab description
 - use nltk to parse out everything but verbs and nouns
-- run parsed data again skills data set
+- run parsed data against skills data set
 - add detected skills to skills attribute in respective jobs data
